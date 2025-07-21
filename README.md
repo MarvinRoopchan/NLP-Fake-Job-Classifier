@@ -48,6 +48,7 @@ This project analyzes job posting data to classify listings as fraudulent or leg
 ## Main Files
 - `FakeJobClassifier_EDA_and_Modelling.ipynb`: Main notebook with all code, analysis, and results.
 - `FakeJobClassifier_Final_Report.pdf`: Full project report, including Abstract, Introduction, Methods, Results, and Discussion.
+   - Please Download Report to view fully
 
 ## Authors
 - Marvin Roopchan, Aamid Mohsin, Christian Kevin Sidharta
